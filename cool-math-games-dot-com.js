@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Cool Math Games Filter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/kelvcutler/
 // @version      0.1
 // @description  Block ads and limit sites to only approved games
 // @author       Kelv Cutler
 // @match        *coolmathgames.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=coolmathgames.com
-// @grant        none
+// @grant        GM_download
 // ==/UserScript==
 
 (function() {
